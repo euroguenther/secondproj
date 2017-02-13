@@ -3,9 +3,15 @@
 
 #include<stdio.h>
 
+#include"secProjFun.h"
+
 
 int main()
 {
-    return 0;
+	
+	
+	
+	
+	return 0;
 }
 
